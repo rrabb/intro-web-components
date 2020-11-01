@@ -1,8 +1,8 @@
 import { useState } from 'react';
 
 import './App.css';
+//import our Web Component
 import './web-components/search-result';
-
 
 function App() {
 
