@@ -16,7 +16,7 @@ function App() {
       onChange={(event) => setName(event.target.value)}
       value={name}></input>
 
-      <div class="greeting">Hello {name}!</div>
+      <div className="greeting">Hello {name}!</div>
 
       <search-result name-attribute={name}></search-result>
 
