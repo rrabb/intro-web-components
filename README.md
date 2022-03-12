@@ -5,6 +5,7 @@
   * [Custom Elements v1:Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
   * [Shadow DOM and slots for Self-contained Web Components aka Custom Elements](https://developers.google.com/web/fundamentals/web-components/shadowdom)
   * [Custom Elements Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+  * [Custom Elements walk-through](https://javascript.info/custom-elements)
 
 # Getting Started with Create React App
 
