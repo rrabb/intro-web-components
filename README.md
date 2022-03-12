@@ -1,3 +1,11 @@
+# Tutorial/Guide for this project 
+
+  * [Web Components Introduction](https://academind.com/tutorials/web-components-introduction)
+  * [Quick Tutorial for We bComponents](https://academind.com/tutorials/web-components-introduction)
+  * [Custom Elements v1:Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+  * [Shadow DOM and slots for Self-contained Web Components aka Custom Elements](https://developers.google.com/web/fundamentals/web-components/shadowdom)
+  * [Custom Elements Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
