@@ -11,6 +11,35 @@
 Simple example of creating a CustomElement / Web Component using plain js (no frameworks). 
 ![Screenshot of MyEmployeeCards.html using MyEmployeeCard CustomElement](/MyEmployeeCards.html.jpg)
 
+## Usage:
+###  In plain html page:
+
+```js
+    <script type='text/javascript' src='MyEmployeeCard.js' />
+```
+### In svelte: 
+
+```
+    <script>
+      import "./util/MyEmployeeCard";
+      ...  
+    </script>
+```    
+### HTML/Svelte markup:   
+```html
+  <div class="view card-container">
+    <my-employee-card eid="121111" full-name="Lion Heart" job-position="Developer">
+      <p slot="top"><i>** Star Employee **</i></p>
+      <p slot="bottom"><b>** Star Employee **</b></p>
+    </my-employee-card>
+    <my-employee-card eid="133531" full-name="Goat Blah" job-position="Blabberer">
+    </my-employee-card>
+    <my-employee-card eid="444467" full-name="Brave Heart" job-position="Developer">
+    </my-employee-card>
+    <my-employee-card eid="561289" full-name="Sheep Blah" job-position="Blabberer">
+    </my-employee-card>
+  </div>
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
