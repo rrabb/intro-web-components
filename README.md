@@ -1,4 +1,4 @@
-# Tutorial/Guide for this project 
+# Tutorial/Guide for CustomElement/WebComponent
 
   * [Web Components Introduction](https://academind.com/tutorials/web-components-introduction)
   * [Quick Tutorial for Web Components](https://medium.com/apprendre-le-web-avec-lior/a-brief-history-of-webcomponents-and-a-tutorial-to-make-yours-a52d329913e7)
