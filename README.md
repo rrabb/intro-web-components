@@ -7,6 +7,10 @@
   * [Custom Elements Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
   * [Custom Elements walk-through](https://javascript.info/custom-elements)
 
+# MyEmployeeCards.html 
+Simple example of creating a CustomElement / Web Component using plain js (no frameworks). 
+![Screenshot of MyEmployeeCards.html using MyEmployeeCard CustomElement](/MyEmployeeCards.html.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
