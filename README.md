@@ -1,7 +1,7 @@
 # Tutorial/Guide for this project 
 
   * [Web Components Introduction](https://academind.com/tutorials/web-components-introduction)
-  * [Quick Tutorial for We bComponents](https://academind.com/tutorials/web-components-introduction)
+  * [Quick Tutorial for Web Components](https://medium.com/apprendre-le-web-avec-lior/a-brief-history-of-webcomponents-and-a-tutorial-to-make-yours-a52d329913e7)
   * [Custom Elements v1:Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
   * [Shadow DOM and slots for Self-contained Web Components aka Custom Elements](https://developers.google.com/web/fundamentals/web-components/shadowdom)
   * [Custom Elements Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
