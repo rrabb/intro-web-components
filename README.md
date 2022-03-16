@@ -6,6 +6,13 @@
   * [Shadow DOM and slots for Self-contained Web Components aka Custom Elements](https://developers.google.com/web/fundamentals/web-components/shadowdom)
   * [Custom Elements Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
   * [Custom Elements walk-through](https://javascript.info/custom-elements)
+  * [MDN Web Components intro](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+    * ⚓ Basic terms: life cycle callbacks, css pseudo-classes (:host, :defined, :host-context(), :host()), SLOT, TEMPLATE
+  * [MDN Using creating and custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+    * [MDN ExpandingListItem example](https://mdn.github.io/web-components-examples/expanding-list-web-component/)
+    * [JS file containing CustomElement - ExpandingListItem](https://mdn.github.io/web-components-examples/expanding-list-web-component/main.js)
+    * [Git Repo of ExpandingListItem example](https://github.com/mdn/web-components-examples/tree/master/expanding-list-web-component)
+    * [Another simple example - Adding Squares (Lifecycle callbacks)](https://mdn.github.io/web-components-examples/life-cycle-callbacks/)
 
 # MyEmployeeCards.html 
 Simple example of creating a CustomElement / Web Component using plain js (no frameworks). 
